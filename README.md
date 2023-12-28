@@ -14,7 +14,7 @@ an example of teaching a model with a teacher.
 <br>Проведите финальное тестирование.
 # Описание данных
 <br>Данные находятся в файле /datasets/Churn.csv (англ. «отток клиентов»). Скачать датасет
-<br>Признаки
+<br><b>Признаки</b>
 <br><i>RowNumber — индекс строки в данных
 <br>CustomerId — уникальный идентификатор клиента
 <br>Surname — фамилия
